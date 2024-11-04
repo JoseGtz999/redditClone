@@ -1,0 +1,7 @@
+C:\Users\gutie\Documents\RedditCloneBackend\obj\Debug\net8.0\RedditCloneBackend.csproj.AssemblyReference.cache
+C:\Users\gutie\Documents\RedditCloneBackend\obj\Debug\net8.0\RedditCloneBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutie\Documents\RedditCloneBackend\obj\Debug\net8.0\RedditCloneBackend.AssemblyInfoInputs.cache
+C:\Users\gutie\Documents\RedditCloneBackend\obj\Debug\net8.0\RedditCloneBackend.AssemblyInfo.cs
+C:\Users\gutie\Documents\RedditCloneBackend\obj\Debug\net8.0\RedditCloneBackend.csproj.CoreCompileInputs.cache
+C:\Users\gutie\Documents\RedditCloneBackend\obj\Debug\net8.0\RedditCloneBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gutie\Documents\RedditCloneBackend\obj\Debug\net8.0\RedditCloneBackend.MvcApplicationPartsAssemblyInfo.cache
